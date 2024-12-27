@@ -1,6 +1,11 @@
+*{
+	margin: 0;
+	padding: 0;
+}
 header img{
 	width: 122px;
 	height: 95px;
+	padding-top: 52px;
 }
 nav a{
 	font-size: 20px;
@@ -17,31 +22,43 @@ ul{
 	max-width: 1640px;
 	height: 613px;
 	width: 100%;
+	margin-top: 107px;
+	margin-bottom: 138px;
 }
 h2{
 	font-size: 40px;
 	color: #707070;
-	letter-spacing: 0.4px
+	letter-spacing: 0.4px;
+	padding-bottom: 70px;
 }
 h3{
 	font-size: 30px;
 	color: #707070;
 	letter-spacing: 0.3px;
+	padding-top:20px;
+	padding-bottom:33px;
+	padding-left:13px;
 }
 section p{
 	font-size: 18px;
 	color: #707070;
+	padding-left: 12px;
+	padding-bottom: 73px;
 }
 section a{
 	font-size: 24px;
 	color: #707070;
 	text-decoration: none;
+]
 }
 .div-a{
 	font-size: 30px;
 	color: #707070;
 	text-decoration: underline;
 	letter-spacing: 0.3px;
+/* არ მუშაობს ვერ მივხვდი რატომ =(	padding-top: 56px;
+	padding-bottom: 53px;
+*/
 }
 section img{
 	width: 483px;
@@ -52,6 +69,8 @@ footer img{
 	width: 122px;
 	height: 95px;
 	object-fit: cover;
+	padding-top: 56px;
+	padding-bottom: 54.96px;
 }
 footer{
 	background-color: #2E2E2E;
@@ -60,6 +79,7 @@ footer h4{
 	font-size: 20px;
 	color: #F2F2F2;
 	letter-spacing: 0.2px;
+	padding-top: 43.9px;
 }
 .h4-font-size{
 	font-size: 19px;
@@ -73,9 +93,17 @@ footer p{
 	width: 44px;
 	height: 44px;
 	object-fit: cover;
+	padding: 43.95px;
 }
 .instagram-img{
 	width: 44px;
 	height: 44px;
 	object-fit: cover;
+	padding: 43.95px;
+}
+nav{
+	margin-left: 140px;
+}
+.article-img{
+	padding-top: 108.5px;
 }
