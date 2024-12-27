@@ -1,0 +1,81 @@
+header img{
+	width: 122px;
+	height: 95px;
+}
+nav a{
+	font-size: 20px;
+}
+.navarb-a{
+	color: #707070;
+	text-decoration: none;
+	letter-spacing: 0.2px;
+}
+ul{
+	list-style: none;
+}
+.introduction-img{
+	max-width: 1640px;
+	height: 613px;
+	width: 100%;
+}
+h2{
+	font-size: 40px;
+	color: #707070;
+	letter-spacing: 0.4px
+}
+h3{
+	font-size: 30px;
+	color: #707070;
+	letter-spacing: 0.3px;
+}
+section p{
+	font-size: 18px;
+	color: #707070;
+}
+section a{
+	font-size: 24px;
+	color: #707070;
+	text-decoration: none;
+}
+.div-a{
+	font-size: 30px;
+	color: #707070;
+	text-decoration: underline;
+	letter-spacing: 0.3px;
+}
+section img{
+	width: 483px;
+	height: 282px;
+	object-fit: cover;
+}
+footer img{
+	width: 122px;
+	height: 95px;
+	object-fit: cover;
+}
+footer{
+	background-color: #2E2E2E;
+}
+footer h4{
+	font-size: 20px;
+	color: #F2F2F2;
+	letter-spacing: 0.2px;
+}
+.h4-font-size{
+	font-size: 19px;
+}
+footer p{
+	font-size: 13px;
+	color: #F2F2F2;
+	letter-spacing: 0.13px;
+}
+.facebook-img{
+	width: 44px;
+	height: 44px;
+	object-fit: cover;
+}
+.instagram-img{
+	width: 44px;
+	height: 44px;
+	object-fit: cover;
+}
